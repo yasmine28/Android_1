@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bienvenue</string>
+    <string name="enter">Entrer</string>
+    <string name="texto">Le texte de la demande</string>
+</resources>
